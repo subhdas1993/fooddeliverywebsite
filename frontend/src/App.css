@@ -1,0 +1,28 @@
+.App {
+  padding: 0 0.5vmax 0.2vmax;
+}
+
+.navshadow{
+  /* margin-top: 0.6vmax; */
+  margin-bottom: 0.5vmax;
+  box-shadow: 1px 1px 5px 1px gray;
+}
+.navtextsize {
+  font-size: 1.2vmax;
+}
+
+.btncolor{
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.anchorstyling{
+  color: yellow;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.anchorstyling:hover{
+  color: cornflowerblue;
+  text-decoration: underline;
+}
